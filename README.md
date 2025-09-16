@@ -1,11 +1,9 @@
-## About Me
+## 💫 About Me
 
-
-🔭 I’m currently working on ... Full Stack project that blend creativity
-🌱 I’m currently learning ... Full Stack 
-👯 I’m looking to collaborate on ... AI/ML + Web dev
-🤔 I’m looking for help with ... Becoming a CP Wizard 🧙‍♂️
-💬 Ask me about ... Machine learning
-📫 How to reach me: ... mayilvagananezhil@gmail.com
-⚡ Fun fact: ... It's super cool to code at 3 AM
--->
+- 🔭 **Currently working on:** Full-stack projects that blend creativity  
+- 🌱 **Currently learning:** Full-stack development  
+- 👯 **Looking to collaborate on:** AI/ML + Web development  
+- 🤔 **Looking for help with:** Becoming a CP wizard 🧙‍♂️  
+- 💬 **Ask me about:** Machine Learning  
+- 📫 **Reach me at:** [mayilvagananezhil@gmail.com](mailto:mayilvagananezhil@gmail.com)  
+- ⚡ **Fun fact:** It’s super cool to code at 3 AM
