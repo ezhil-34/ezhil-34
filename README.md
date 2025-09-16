@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 <!--
 **ezhil-34/ezhil-34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
