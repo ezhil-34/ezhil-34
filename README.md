@@ -16,5 +16,5 @@
 
 ## 🛠️ Technologies & Tools
 ---
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,flutter,dart,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,flutter,dart,nodejs,java,c++,c,python)](https://skillicons.dev)
 
