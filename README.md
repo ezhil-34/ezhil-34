@@ -18,7 +18,23 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,flutter,dart,nodejs,java)](https://skillicons.dev)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,linux,postman,figma,canva)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,linux,postman,figma,canva)](https://skillicons.dev)  
+
+## 📊 GitHub Stats
+---
+
+<!-- Overall Stats -->
+![Ezhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhil-34&show_icons=true&theme=radical)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezhil-34&layout=compact&theme=radical)
+
+<!-- Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezhil-34&theme=radical)
+
+<!-- Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ezhil-34&theme=radical&margin-w=15)
+
 
 
 
