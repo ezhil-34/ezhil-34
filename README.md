@@ -16,5 +16,5 @@
 
 ## 🛠️ Technologies & Tools
 ---
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d250d84b-5a0a-493b-b6d8-9bd97b9fd565" />
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,react,mongodb,mysql,oracle,linux,git,github,figma,postman)](https://skillicons.dev)
+
