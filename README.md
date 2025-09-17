@@ -17,4 +17,4 @@
 ## 🛠️ Technologies & Tools
 ---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)
