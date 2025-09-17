@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 ---
-
+<div align="center">
 <!-- Overall Stats -->
 ![Ezhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhil-34&show_icons=true&theme=radical)
 
@@ -34,6 +34,8 @@
 
 <!-- Trophies -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ezhil-34&theme=radical&margin-w=15)
+
+</div>
 
 
 
