@@ -16,5 +16,6 @@
 
 ## 🛠️ Technologies & Tools
 ---
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,flutter,dart,nodejs,java,c++,cpp,c,python,linux,postman,figma,canva)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,flutter,dart,nodejs,java,c++,cpp,c,python,linux,postman,figma,canva)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,linux,postman,figma,canva)](https://skillicons.dev)
 
