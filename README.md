@@ -16,5 +16,4 @@
 
 ## 🛠️ Technologies & Tools
 ---
-https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/d250d84b-5a0a-493b-b6d8-9bd97b9fd565" />
