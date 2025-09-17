@@ -13,3 +13,8 @@
 - 📫 **Reach me at:** [mayilvagananezhil@gmail.com](mailto:mayilvagananezhil@gmail.com)
   
 - ⚡ **Fun fact:** It’s super cool to code at 3 AM
+
+## 🛠️ Technologies & Tools
+---
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
