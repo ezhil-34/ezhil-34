@@ -16,4 +16,4 @@
 
 ## 🛠️ Technologies & Tools
 ---
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d250d84b-5a0a-493b-b6d8-9bd97b9fd565" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d250d84b-5a0a-493b-b6d8-9bd97b9fd565" />
