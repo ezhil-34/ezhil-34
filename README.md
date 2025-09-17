@@ -33,8 +33,10 @@
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezhil-34&layout=compact&theme=radical)
 
-<!-- Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ezhil-34&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezhil-34&theme=radical" alt="GitHub Streak"/>
+</p>
+
 
 <!-- Trophies -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ezhil-34&theme=radical&margin-w=15)
