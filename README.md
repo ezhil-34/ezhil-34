@@ -16,5 +16,5 @@
 
 ## 🛠️ Technologies & Tools
 ---
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,react,mongodb,mysql,oracle,linux,git,github,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript)](https://skillicons.dev)
 
