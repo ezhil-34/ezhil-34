@@ -16,13 +16,17 @@
 
 ## 🛠️ Technologies & Tools
 
-
+<div align="center">
+    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,flutter,dart,nodejs,java)](https://skillicons.dev)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,linux,postman,figma,canva)](https://skillicons.dev)  
+
+</div>
 
 ## 📊 GitHub Stats
 ---
 <div align="center">
+    
 <!-- Overall Stats -->
 ![Ezhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhil-34&show_icons=true&theme=radical)
 
