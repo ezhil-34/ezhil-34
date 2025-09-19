@@ -19,7 +19,8 @@
 <div align="center">
     
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,javascript,flutter,dart,nodejs,anaconda)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,linux,postman,figma,canva)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,linux,postman,figma)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=git,github,mongodb,mysql,canva,npm,opencv)](https://skillicons.dev) 
 
 </div>
 
