@@ -22,7 +22,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,linux,postman,figma)](https://skillicons.dev)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git,github,mongodb,mysql,npm,opencv)](https://skillicons.dev)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=git,github,mongodb,mysql,npm,opencv,canva)](https://skillicons.dev)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=anaconda,tailwindcss,tensorflow,ubuntu,vscode,windows)](https://skillicons.dev) 
 
