@@ -30,15 +30,15 @@
 <!-- Overall Stats -->
 ![Ezhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhil-34&show_icons=true&theme=radical)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ezhil-34&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ezhil-34&theme=radical" alt="GitHub Streak"/>
+</p>
 
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezhil-34&layout=compact&theme=radical)
 
-<br>
-<img src="https://github-readme-streak-stats.demolab.com/?user=ezhil-34&theme=radical" alt="GitHub Streak"/>
-<br>
+
 
 
 <!-- Trophies -->
