@@ -39,7 +39,7 @@
 
 
 
-[![Ezhil GitHub Streak](https://streak-stats.demolab.com?user=ezhil-34)](https://git.io/streak-stats)
+[![Ezhil's GitHub Streak](https://streak-stats.demolab.com?user=ezhil-34&theme=dark)](https://git.io/streak-stats)
 
 
 <!-- Top Languages -->
