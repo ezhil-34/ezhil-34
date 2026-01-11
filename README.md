@@ -32,18 +32,22 @@
 ---
 <div align="center">
     
-<!-- Overall Stats -->
-![Ezhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhil-34&show_icons=true&count_private=true&include_all_commits=true&theme=radical)  
+## 📊 GitHub Stats
 
+![Ezhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhil-34&show_icons=true&theme=radical)
 
+---
 
+## 🔥 GitHub Streak
 
+![GitHub Streak](https://streak-stats.demolab.com?user=ezhil-34&theme=dark)
 
-[![Ezhil's GitHub Streak](https://streak-stats.demolab.com?user=ezhil-34&theme=dark)](https://git.io/streak-stats)
+---
 
+## 💻 Top Languages
 
-<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezhil-34&layout=compact&theme=radical)
+
 
 
 
