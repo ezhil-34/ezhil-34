@@ -2,7 +2,7 @@
 
 - 🔭 **Currently working on:** Full-stack projects that blend creativity
     
-- 🌱 **Currently learning:** Full-stack development
+- 🌱 **Currently learning:** Angular
   
 - 👯 **Looking to collaborate on:** AI/ML + Web development
   
