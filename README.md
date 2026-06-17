@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-- 🔭 **Currently working on:** Full-stack projects that blend creativity
+- 🔭 **Currently working on:**  Ticketing System 
     
 - 🌱 **Currently learning:** Angular
   
