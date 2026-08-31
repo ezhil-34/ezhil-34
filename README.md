@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-- 🔭 **Currently working on:**  Ticketing System 
+- 🔭 **Currently working on:**  Human behaviour Simularca
     
 - 🌱 **Currently learning:** Angular
   
