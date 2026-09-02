@@ -8,7 +8,7 @@
   
 - 🤔 **Looking for help with:** Becoming a CP wizard 🧙‍♂️
   
-- 💬 **Ask me about:** Machine Learning
+- 💬 **Ask me about:** SDE
   
 - 📫 **Reach me at:** [mayilvagananezhil@gmail.com](mailto:mayilvagananezhil@gmail.com)
   
